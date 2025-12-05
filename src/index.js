@@ -40,5 +40,3 @@ const initializeConnection = async () => {
 };
 
 initializeConnection();
-
-module.exports = app;
