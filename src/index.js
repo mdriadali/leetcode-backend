@@ -13,7 +13,7 @@ const videoRouter = require("./routes/video");
 
 
 app.use(cors({
-  origin:'http://localhost:5173',
+  origin:'https://leetcode-frontend-y5m2.vercel.app',
   credentials:true
 }))
 
